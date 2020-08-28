@@ -1,2 +1,3 @@
 # ReduxVanillaJS
-Todo app using Redux on VanillaJS
+Todo app using REDUX on VanillaJS
+First approach on REDUX
